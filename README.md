@@ -1,6 +1,6 @@
 ### Quick link to website hosted from here:
  - https://fricanojohnb.github.io/InternetOfBatteries/
- - https://fricanojohnb.github.io/InternetOfBatteries/about
+ - https://fricanojohnb.github.io/InternetOfBatteries/about.md
 
 ## Welcome to the Internet of Batteries!
 
