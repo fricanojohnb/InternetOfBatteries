@@ -1,1 +1,14 @@
-theme: jekyll-theme-hacker
+title: InternetOfBatteries # site name/title goes here
+logo: "/images/logo.png?raw=true" # route to logo kept here
+
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Aask is awesome, check out some of her work!
+  <br><br>
+  Welcome to a quick Internet of Batteries intro
+  <br><br>
+  Here's a list of our Social media presence for those looking to stay informed and get involved:
+  <a href="https://twitter.com/batteryinternet">Twitter IoB</a>
+  <a href="">Other IoB links to be added</a>
+
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID can go here for usage stats!
