@@ -1,5 +1,6 @@
+# to ref anything here in html use site.name , ex: site.logo provides the string held in logo below at 'runtime'
 title: InternetOfBatteries # site name/title goes here
-logo: "/images/logo.png?raw=true" # route to logo kept here
+logo: "/images/logo_placeholder.png?raw=true" # route to logo kept here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Aask is awesome, check out some of her work!
