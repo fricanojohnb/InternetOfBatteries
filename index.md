@@ -13,4 +13,4 @@ https://www.sciencenewsforstudents.org/article/lithium-ion-batteries-flames-fire
 </p>
 <hr>
 <h3> Battery Section 2 </h3>
-<li><b>Hello, Internet of Batteries!</li>
+<li><b>Hello, Internet of Batteries!</b></li>
