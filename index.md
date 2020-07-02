@@ -1,3 +1,4 @@
+<div>
 <h2>IoB</h2>
 <hr>
 <h3> Battery Section 1 </h3>
@@ -14,3 +15,4 @@ https://www.sciencenewsforstudents.org/article/lithium-ion-batteries-flames-fire
 <hr>
 <h3> Battery Section 2 </h3>
 <li><b>Hello, Internet of Batteries!</b></li>
+</div>
